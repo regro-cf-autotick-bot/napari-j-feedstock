@@ -22,12 +22,19 @@ requirements:
     - python >=3.7
     - setuptools-scm
   run:
+    - imageio-ffmpeg  # pip check
     - jpype1 >=1.2.1
+    - jupyter_client
+    - magicgui
     - matplotlib-base
     - napari
     - napari-plugin-engine >=0.1.4
     - numpy
     - python >=3.7
+    - pyyaml
+    - qtpy
+    - scikit-image
+    - vispy
 
 test:
   imports:
