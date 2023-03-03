@@ -1,11 +1,11 @@
-About napari-j
-==============
+About napari-j-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-j-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/MontpellierRessourcesImagerie/napari-J
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-j-feedstock/blob/main/LICENSE.txt)
 
 Summary: A plugin to exchange data with FIJI and to use FIJI image analysis from napari
 
